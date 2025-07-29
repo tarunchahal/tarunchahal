@@ -1,5 +1,5 @@
 ## Hi there 👋
-👋 My name is Tarun Chahal<br>
+👋 I'm Tarun Chahal<br>
 🎓 Final-year B.E. student specializing in Artificial Intelligence & Data Science<br>
 🌿 Currently building an AI-powered system for detecting plant diseases through image analysis<br>
 🧠 Deep into Machine Learning, Deep Learning, and practical problem-solving with data<br>

@@ -4,7 +4,7 @@
 
 
 
-![Typing SVG](https://typingsvg.vercel.app/api/svg?backgroundColor=%23000000&backgroundOpacity=0&lines=%5B%7B%22text%22%3A%22Hello%2C+World%21%22%2C%22color%22%3A%22%2336bcf7%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%7D%2C%7B%22text%22%3A%22Tarun+Chahal+This+Side%21%22%2C%22color%22%3A%22%2336bcf7%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%7D%5D)
+![Typing SVG](https://typingsvg.vercel.app/api/svg?backgroundColor=%23000000&backgroundOpacity=0&border=false&lines=%5B%7B%22text%22%3A%22Hello%2C+World%21%22%2C%22color%22%3A%22%2336bcf7%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%7D%2C%7B%22text%22%3A%22Tarun+Chahal+This+Side%21%22%2C%22color%22%3A%22%2336bcf7%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%7D%5D)
 
 🎓 Final-year B.E. student specializing in Artificial Intelligence & Data Science<br>
 🌿 Currently building an AI-powered system for detecting plant diseases through image analysis<br>

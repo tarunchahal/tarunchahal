@@ -4,7 +4,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/demo/?duration=3000&pause=0&lines=%3CHello+World!%3E;%3CTarun+Chahal+This+Side!%3E)
+![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Hello%2C+World%21%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%7D%2C%7B%22text%22%3A%22Tarun+Chahal+This+Side%21%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05%7D%5D)
 
 🎓 Final-year B.E. student specializing in Artificial Intelligence & Data Science<br>
 🌿 Currently building an AI-powered system for detecting plant diseases through image analysis<br>
